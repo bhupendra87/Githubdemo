@@ -12,7 +12,7 @@ namespace WebApplication2
         protected void Page_Load(object sender, EventArgs e)
         {
             int a = 5;
-            Response.Write(a);
+            int b = 5;
         }
     }
 }
